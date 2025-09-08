@@ -1,6 +1,6 @@
 ---
 title: "SDS 322E: Project 1 Report"
-output: html_document
+output: pdf_document
 ---
 
 ## Names and EIDs of Group Members
