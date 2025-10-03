@@ -184,28 +184,5 @@ What do you conclude about speedcubers in Europe vs. North America?
 **Write you answer here.**
 
 
-### Alternative Explanations
-
-Develop an alternative explanation/hypothesis regarding speedcubers from Europe and North America that is 
-
-1. Consistent with the results you produced in the previous question; but
-
-2. Provides a different interpretation or explanation for what is going on. 
-
-If the results from the previous question were unexpected, make use of systems thinking to develop an alternative hypothesis. If the results were consistent with your expectations, then use skeptical thinking. In either case, you should present an analysis that shows evidence for or against this alternative explanation relative to the conclusion that you made in the previous question.
-
-**State your alternative explanation here.**
-
-```{r}
-## Add your code here
-
-```
-
-**Summarize the results of your alternative analysis here.**
-
-
-
-
-
 ## Discussion
 
